@@ -15,7 +15,8 @@ I've graduated from a musical school. I like to play the piano and violin, read 
 - sass/less
 - react
 ### Code example:
-```let a = [-2,7,9,5,8,1,12,15,17,3];
+```
+let a = [-2,7,9,5,8,1,12,15,17,3];
    for (let i = 0; i < a.length; i++ ){
        console.log ( a[i] );
        if( a[i] > 0 && a[i] < 10 ){
